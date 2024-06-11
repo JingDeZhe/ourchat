@@ -23,7 +23,7 @@
   "search": "搜索",
   "ai": {
     "label": "AI",
-    "qwen": "通义千文",
+    "qwen": "通义千问",
     "moonshot": "月之暗面",
     "zhipu": "智谱",
     "noOptionsTip": "注意到你还没进行AI的配置，你需要首先配置一个可用的AI接口才能进行后续的聊天等功能。",

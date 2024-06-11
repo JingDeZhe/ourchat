@@ -13,7 +13,7 @@
 
 进入应用时如果没有配置 AI，则会提醒一次，你需要首先配置一个可用的 API 才能让好友正常聊天和发朋友圈，现在支持通义千问和 Moonshot（就是 Kimi）。
 
-![alt text](assets/image-5.png)
+![alt text](assets/image-6.png)
 
 1. 通义千问 API 申请，有可以用挺久的免费额度，见[dashscope](https://help.aliyun.com/zh/dashscope/developer-reference/api-details)
 2. Moonshot API 申请，有可以用挺久的免费额度，见[moonshot](https://platform.moonshot.cn/docs/intro)
